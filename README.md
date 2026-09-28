@@ -1,6 +1,6 @@
 # Checkpoint 02 — APIs, energias renováveis e aprendizado de máquina
 
-** INTEGRANTES: **
+**INTEGRANTES:**
 Aneliza Rondina Bonafé - RM 572977
 Rafaella Ferreira de Moraes - 571030
 
