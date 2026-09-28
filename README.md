@@ -6,6 +6,8 @@ Rafaella Ferreira de Moraes - 571030
 
 Projeto acadêmico com duas tarefas de aprendizado de máquina em Python: classificação da fonte de geração renovável e regressão da radiação solar.
 
+## Prof, é preciso colocar os dois CSVs gerados pelo seu notebook(aneel_classificacao e meteo_regressao)na pastinha do colab pra poder rodar tudo direitinho. Obrigada! :)
+
 ## Objetivo
 
 1. **Classificação:** prever se um empreendimento é Solar, Eólico ou Hidráulico usando apenas potência outorgada e localização.
@@ -98,8 +100,6 @@ Depois:
 jupyter notebook checkpoint_02_sers.ipynb
 ```
 
-Execute as células na ordem.
-
 O notebook usa os dois CSVs já incluídos no repositório. Ele também contém uma seção opcional para reproduzir os arquivos consultando as APIs públicas. Por padrão, essa consulta está desativada (`GERAR_CSVS = False`), para que o notebook possa ser executado usando os CSVs versionados.
 
 ## Estrutura
@@ -114,3 +114,5 @@ CP-SERS/
 ├── resultados_regressao.csv
 └── requirements.txt
 ```
+
+
